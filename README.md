@@ -1,39 +1,47 @@
-<h1 align="center">Hi 👋, I'm Tuan Anh</h1>
-<h3 align="center">💻 Backend Developer | C# .NET | Web Developer</h3>
+<h1 align="center">⚡ Tuan Anh ⚡</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+Developer;C%23+.NET;Web+Developer;Always+Learning...&center=true&color=00F7FF&size=22">
+</p>
 
 ---
 
-## 🚀 About Me
-- 🎓 Sinh viên IT
-- 💡 Đang học: ASP.NET, Vue
-- 🔥 Mục tiêu: Fullstack Developer
+## 🧑‍💻 About Me
+- 💻 C# .NET Developer
+- 🌐 Web Developer (HTML, CSS, JS, Vue)
+- 🚀 Goal: Become Fullstack Developer
+- 📍 Da Nang, Viet Nam
 
 ---
 
-## 🛠 Skills
-<p>
-  <img src="https://img.shields.io/badge/C%23-purple"/>
-  <img src="https://img.shields.io/badge/.NET-blue"/>
-  <img src="https://img.shields.io/badge/HTML-orange"/>
-  <img src="https://img.shields.io/badge/CSS-blue"/>
-  <img src="https://img.shields.io/badge/JavaScript-yellow"/>
-  <img src="https://img.shields.io/badge/SQL-green"/>
+## ⚙️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,js,vue,sqlserver,git" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats
-![stats](https://github-readme-stats.vercel.app/api?username=tuananhdz2509&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tuananhdz2509&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tuananhdz2509&theme=tokyonight" />
+</p>
 
 ---
 
-## 🔥 Top Projects
-- 🧸 Website bán đồ chơi
-- 👨‍💼 App quản lý nhân viên (WinForms)
-- 🛒 Web bán hàng (ASP.NET)
+## 🚀 Featured Projects
+- 🧸 Toy Store Website  
+- 👨‍💼 Employee Management (WinForms)  
+- 🛒 E-commerce Web (ASP.NET)  
 
 ---
 
-## 📫 Contact
-- 📧 Email: anhlqttd01084@gmail.com
-- 🌐 Facebook: Lê Quang Tuấn Anh 
+## 🌐 Connect with me
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
+<p align="center">🔥 "Code - Eat - Sleep - Repeat" 🔥</p>
